@@ -19,6 +19,6 @@ An Express.js backend for user authentication and contact management. Features i
 
 # Setup
 
-Install dependencies: npm install
-Create a .env file with your MongoDB URI and JWT secret.
-Start the server: npm start
+* Install dependencies: npm install
+* Create a .env file with your MongoDB URI and JWT secret.
+* Start the server: npm start
